@@ -1,2 +1,25 @@
-= LearnRust
-= LearnRust
+= Learn Rust
+:experimental:
+:icons: font
+:experimental:
+:icons: font
+:toc: right
+:toc-title: 目录
+:toclevels: 4
+:source-highlighter: rouge
+
+
+> 此项目记录个人 Rust 学习笔记，不做其他用途。部分
+
+== 注意事项
+
+. 此文档内容不一定准确，可能存在较大问题。
+. 部分内容可能侵犯他人著作权益，请不要引用此项目。
+
+== 参考 & 致谢
+
+* link:https://course.rs/[Rust语言圣经]
+
+== LICENSE
+
+CC BY 4.0
